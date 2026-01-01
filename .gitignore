@@ -1,0 +1,10 @@
+# Ignore local Python virtual environment
+.venv/
+
+librelane/runs/
+*out
+*.log
+*.odb
+*.spef
+*.html
+sim_build/

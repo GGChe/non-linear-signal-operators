@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jan 26 16:29:56 2026
+[*]
+[dumpfile] "/home/darthlamprey/my_designs/non-linear-signal-operators/operators_wave.vcd"
+[dumpfile_mtime] "Mon Jan 26 16:28:58 2026"
+[dumpfile_size] 87907610
+[savefile] "/home/darthlamprey/my_designs/non-linear-signal-operators/wave.gtkw"
+[timestart] 0
+[size] 2102 1091
+[pos] -1 -1
+*-27.696043 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 328
+@28
+tb_operators.clk
+tb_operators.rst
+@8020
+tb_operators.data_in[15:0]
+@20200
+-
+@20200
+-
+@20200
+-
+@8020
+tb_operators.ado_out[15:0]
+@20200
+-
+@20200
+-
+@20200
+-
+@8020
+tb_operators.aso_out[15:0]
+@20200
+-
+@20200
+-
+@20200
+-
+@8020
+tb_operators.ed_out[28:0]
+@20200
+-
+@20200
+-
+@20200
+-
+@8020
+tb_operators.tkeo_out[28:0]
+@20200
+-
+@20200
+-
+@20200
+-
+[pattern_trace] 1
+[pattern_trace] 0
