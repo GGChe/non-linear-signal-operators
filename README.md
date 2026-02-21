@@ -107,7 +107,7 @@ After the flow completes, the synthesized macro can be visualized in the OpenROA
 make view-openroad
 ```
 
-![ASIC Synthesis Result](image.png)
+![ASIC Synthesis Result](resources/asic_layout.png)
 *Synthesized layout of the non-linear signal processing operators.*
 
 ## Conclusion
